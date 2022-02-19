@@ -6,8 +6,8 @@ html, body
 
 body
 {
-	background: rgb(62,237,16);
-	background: radial-gradient(circle, rgba(62,237,16,1) 0%, rgba(15,240,238,1) 51%, rgba(255,0,185,1) 99%);
+	background: rgb(106,237,16);
+background: linear-gradient(180deg, rgba(106,237,16,1) 7%, rgba(15,240,238,1) 52%, rgba(230,0,255,1) 93%);
 }
 
 .header
